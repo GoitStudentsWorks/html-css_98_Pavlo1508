@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/iTitans-first-team-project/",
+    "build": "vite build --base=/html-css_98_Pavlo1508/",
     "preview": "vite preview"
   },
   "devDependencies": {
